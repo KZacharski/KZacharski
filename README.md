@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about VSCode
 - 📫 How to reach me: @puffercatt on Twitter or @puffercat on Telegram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In 7'th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace. Not so fun fact, I used the default gh README template with really minor changes. New, better readme coming soon.
+- ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace. Not so fun fact, I used the default gh README template with really minor changes. New, better readme coming soon.
