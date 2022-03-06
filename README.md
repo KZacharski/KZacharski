@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️. Not so fun fact, I used the default gh README template with really minor changes. New, better readme coming soon.
 
+### Skills
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF&labelColor=1572B6)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=06B6D4)](https://tailwindcss.com)
+[![Parcel](https://img.shields.io/badge/Parcel-b04b4c?style=for-the-badge&logoColor=FFFFFF&labelColor=b04b4c)](https://parceljs.org)
+![Vue.js](https://img.shields.io/badge/Vue.js-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![Kotlin](https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![Python](https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![Bash](https://img.shields.io/badge/Bash-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+![Sketch](https://img.shields.io/badge/Sketch-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF&labelColor=E34F26)
+
 ### Environment
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/macos/monterey/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios/ios-15/)
