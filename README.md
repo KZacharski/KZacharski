@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 ### Devices
 [![iPhone 8 Plus](https://img.shields.io/badge/iPhone_8_Plus-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP768)
+[![Xiaomi Mi 9T](https://img.shields.io/badge/Mi_9T-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.gsmarena.com/xiaomi_mi_9t-9738.php)
+
+
