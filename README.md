@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 ### Computer
 [![MacBook Pro 16" 2019](https://img.shields.io/badge/MacBook_Pro_16"_2019-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP809)
 [![Intel Core i7-9750H](https://img.shields.io/badge/Intel_Core_i7--9750H-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF&labelColor=0071C5)](https://www.intel.com/content/www/us/en/products/sku/191045/intel-core-i79750h-processor-12m-cache-up-to-4-50-ghz/specifications.html)
+[![16 GB 2667 MHz DDR4 RAM](https://img.shields.io/badge/16_GB_2667_MHz_DDR4_RAM-000000?style=for-the-badge&logoColor=FFFFFF&labelColor=000000)]
