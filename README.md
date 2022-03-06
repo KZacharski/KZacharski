@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=4285F4)](https://cloud.google.com/)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624)
 [![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=000000&labelColor=F7B500)](https://sketch.com)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=FFFFFF&labelColor=343434)](https://circleci.com)
 
 ### Environment
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/macos/monterey/)
@@ -62,3 +63,20 @@ Here are some ideas to get you started:
 ### Contact
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=26A5E4)](https://t.me/puffercat)
+
+### My stack of choices (From all possible categories)
+[![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://apple.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=1793D1)](https://archlinux.org)
+[![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=FFFFFF&labelColor=273347)](https://asana.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=FFFFFF&labelColor=1769FF)](http://be.net/puffercatdesign)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=FFFFFF&labelColor=343434)](https://circleci.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=F38020)](https://www.cloudflare.com)
+[![CNN](https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=cnn&logoColor=FFFFFF&labelColor=CC0000)](https://www.cnn.com)
+[![Debian](https://img.shields.io/badge/Debian_(For_servers)-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF&labelColor=A81D33)](https://www.debian.org)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=FFFFFF&labelColor=0080FF)](https://www.digitalocean.com/?refcode=5bb1b40ff63e&utm_campaign=Referral_Invite&utm_medium=Referral_Program)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/KZacharski)
+[![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=FFFFFF&labelColor=4A86CF)](https://gnome.org)
+[![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=FFFFFF&labelColor=1BDBDB)](https://godaddy.com)
+[![HERE](https://img.shields.io/badge/HERE-00AFAA?style=for-the-badge&logo=here&logoColor=FFFFFF&labelColor=00AFAA)](https://here.com)
+[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=FFFFFF&labelColor=3693F3)](https://www.icloud.com)
+[![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=FFFFFF&labelColor=000000)](https://ifttt.com)
