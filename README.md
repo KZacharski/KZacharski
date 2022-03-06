@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KZacharski&show_icons=true&theme=vue-dark">
+
 ### Hi there 👋
 ### My name is Kacper/Casper AKA Puffercat and I am a programming beginner.
 
