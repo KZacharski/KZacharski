@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Devices
 [![iPhone 8 Plus](https://img.shields.io/badge/iPhone_8_Plus-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP768)
-[![Xiaomi Mi 9T](https://img.shields.io/badge/Mi_9T-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.gsmarena.com/xiaomi_mi_9t-9738.php)
+[![Xiaomi Mi 9T](https://img.shields.io/badge/Mi_9T-FF6900?style=for-the-badge&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/global/mi-9-t/)
 [![Pixel 2 XL](https://img.shields.io/badge/Pixel_2_XL-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=4285F4)](https://www.gsmarena.com/google_pixel_2_xl-8720.php)
 [![Moto Z3 Play](https://img.shields.io/badge/Moto_Z3_Play-E1140A?style=for-the-badge&logo=motorola&logoColor=FFFFFF&labelColor=E1140A)](https://www.gsmarena.com/motorola_moto_z3_play-9003.php)
 [![Sony Xperia XA2 Plus](https://img.shields.io/badge/Xperia_XA2_Plus-FFFFFF?style=for-the-badge&logo=sony&logoColor=000000&labelColor=FFFFFF)](https://www.gsmarena.com/sony_xperia_xa2_plus-9268.php)
