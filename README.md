@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![MacBook Pro 16" 2019](https://img.shields.io/badge/MacBook_Pro_16"_2019-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP809)
 
 <details>
-  <summary>Computer specs</summary>
+  <summary>## Computer specs</summary>
      • CPU: Intel Core i7-9750H<br>
      • Memory: 16 GB 2667 MHz DDR4
 </details>
