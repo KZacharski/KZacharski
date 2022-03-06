@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 [![Sailfish OS](https://img.shields.io/badge/Sailfish_OS-163763?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=163763)](https://sailfishos.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows95&logoColor=FFFFFF&labelColor=0078D6)](https://www.microsoft.com/en-us/windows/windows-11)
 [![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=1793D1)](https://archlinux.org)
+
+### Devices
+[![iPhone 8 Plus](https://img.shields.io/badge/iPhone_8_Plus-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP768)
