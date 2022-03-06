@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 [![Moto Z3 Play](https://img.shields.io/badge/Moto_Z3_Play-E1140A?style=for-the-badge&logo=motorola&logoColor=FFFFFF&labelColor=E1140A)](https://www.gsmarena.com/motorola_moto_z3_play-9003.php)
 [![Sony Xperia XA2 Plus](https://img.shields.io/badge/Xperia_XA2_Plus-FFFFFF?style=for-the-badge&logo=sony&logoColor=000000&labelColor=FFFFFF)](https://www.gsmarena.com/sony_xperia_xa2_plus-9268.php)
 [![Samsung Galaxy Tab 3 Lite](https://img.shields.io/badge/Samsung_Galaxy_Tab_3_Lite-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF&labelColor=1428A0)](https://www.gsmarena.com/samsung_galaxy_tab_3_lite_7_0-5969.php)
+[![LG L90](https://img.shields.io/badge/LG_L90-A50034?style=for-the-badge&logo=lg&logoColor=FFFFFF&labelColor=A50034)](https://www.gsmarena.com/lg_l90_d405-6100.php)
