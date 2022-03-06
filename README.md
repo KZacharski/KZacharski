@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Computer specs</summary>
-     * With some
+     * With some<br>
      * Sub bullets
 </details>
