@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about VSCode
 - 😄 Pronouns: He/Him
 - 🕐 I like to code, design stuff and make music
-- ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️. Not so fun fact, I used the default gh README template with really minor changes. New, better readme coming soon.
+- ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️.
 
 ### Skills
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E)
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=4285F4)](https://cloud.google.com/)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624)
 [![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=000000&labelColor=F7B500)](https://sketch.com)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=FFFFFF&labelColor=343434)](https://circleci.com)
 
 ### Environment
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/macos/monterey/)
@@ -62,3 +63,33 @@ Here are some ideas to get you started:
 ### Contact
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=26A5E4)](https://t.me/puffercat)
+
+### My stack of choices (From all possible categories)
+[![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://apple.com)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=1793D1)](https://archlinux.org)
+[![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=FFFFFF&labelColor=273347)](https://asana.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=FFFFFF&labelColor=1769FF)](http://be.net/puffercatdesign)
+[![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=FFFFFF&labelColor=343434)](https://circleci.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=FFFFFF&labelColor=F38020)](https://www.cloudflare.com)
+[![CNN](https://img.shields.io/badge/CNN-CC0000?style=for-the-badge&logo=cnn&logoColor=FFFFFF&labelColor=CC0000)](https://www.cnn.com)
+[![Debian](https://img.shields.io/badge/Debian_(For_servers)-A81D33?style=for-the-badge&logo=debian&logoColor=FFFFFF&labelColor=A81D33)](https://www.debian.org)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=FFFFFF&labelColor=0080FF)](https://www.digitalocean.com/?refcode=5bb1b40ff63e&utm_campaign=Referral_Invite&utm_medium=Referral_Program)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=181717)](https://github.com/KZacharski)
+[![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=FFFFFF&labelColor=4A86CF)](https://gnome.org)
+[![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=FFFFFF&labelColor=1BDBDB)](https://godaddy.com)
+[![HERE](https://img.shields.io/badge/HERE-00AFAA?style=for-the-badge&logo=here&logoColor=FFFFFF&labelColor=00AFAA)](https://here.com)
+[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=FFFFFF&labelColor=3693F3)](https://www.icloud.com)
+[![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=FFFFFF&labelColor=000000)](https://ifttt.com)
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=FFFFFF&labelColor=3880FF)](https://ionicframework.com/vue)
+[![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=FFFFFF&labelColor=000000)](https://iterm2.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=47A248)](https://www.mongodb.com)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=FFFFFF&labelColor=57A143)](https://neovim.io)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=FFFFFF&labelColor=EA7E20)](https://openvpn.net)
+[![Pocket Casts](https://img.shields.io/badge/Pocket_Casts-F43E37?style=for-the-badge&logo=pocketcasts&logoColor=FFFFFF&labelColor=F43E37)](https://www.pocketcasts.com)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=000000&labelColor=F7B93E)](https://prettier.io)
+[![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/safari/)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=FFFFFF&labelColor=3A76F0)](https://signal.org)
+[![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=000000&labelColor=F7B500)](https://sketch.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1DB954)](https://spotify.com)
+[![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=FFFFFF&labelColor=0559C9)](https://www.ui.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=007ACC)](https://code.visualstudio.com)
