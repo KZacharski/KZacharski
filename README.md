@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Computer specs</summary>
-     * With some<br>
-     * Sub bullets
+     • CPU: Intel Core i7-9750H<br>
+     • Memory: 16 GB 2667 MHz DDR4
 </details>
