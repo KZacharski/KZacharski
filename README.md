@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about VSCode
 - 😄 Pronouns: He/Him
 - 🕐 I like to code, design stuff and make music
-- ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️. Not so fun fact, I used the default gh README template with really minor changes. New, better readme coming soon.
+- ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️.
 
 ### Skills
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E)
