@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️. Not so fun fact, I used the default gh README template with really minor changes. New, better readme coming soon.
 
-### Enviroment
+### Environment
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/macos/monterey/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios/ios-15/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=3DDC84)](https://www.android.com/android-11/)
