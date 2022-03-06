@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 </details>
 
 ### Contact
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=apptwitterle&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
