@@ -39,4 +39,6 @@ Here are some ideas to get you started:
   <summary>Computer specs</summary>
      • CPU: Intel Core i7-9750H<br>
      • Memory: 16 GB 2667 MHz DDR4
+     • GPU: AMD Radeon Pro 5300M
+     • Disk: 512 GB SSD
 </details>
