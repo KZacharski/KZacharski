@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 [![Samsung Galaxy Tab 3 Lite](https://img.shields.io/badge/Samsung_Galaxy_Tab_3_Lite-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF&labelColor=1428A0)](https://www.gsmarena.com/samsung_galaxy_tab_3_lite_7_0-5969.php)
 [![LG L90](https://img.shields.io/badge/LG_L90-A50034?style=for-the-badge&logo=lg&logoColor=FFFFFF&labelColor=A50034)](https://www.gsmarena.com/lg_l90_d405-6100.php)
 [![Samsung Galaxy Ace](https://img.shields.io/badge/Samsung_Galaxy_Ace-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF&labelColor=1428A0)](https://www.gsmarena.com/samsung_galaxy_ace_s5830i-4664.php)
+[![Apple Watch SE 40MM](https://img.shields.io/badge/Apple_Watch_SE_40MM-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/shop/buy-watch/apple-watch-se/40mm-gps-space-gray-aluminum-abyss-blue-braided-solo-loop-size-1-se)
