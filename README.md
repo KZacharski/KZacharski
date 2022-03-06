@@ -80,3 +80,7 @@ Here are some ideas to get you started:
 [![HERE](https://img.shields.io/badge/HERE-00AFAA?style=for-the-badge&logo=here&logoColor=FFFFFF&labelColor=00AFAA)](https://here.com)
 [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=FFFFFF&labelColor=3693F3)](https://www.icloud.com)
 [![IFTTT](https://img.shields.io/badge/IFTTT-000000?style=for-the-badge&logo=ifttt&logoColor=FFFFFF&labelColor=000000)](https://ifttt.com)
+[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=FFFFFF&labelColor=3880FF)](https://ionicframework.com/vue)
+[![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=FFFFFF&labelColor=000000)](https://iterm2.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=47A248)](https://www.mongodb.com)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=FFFFFF&labelColor=57A143)](https://neovim.io)
