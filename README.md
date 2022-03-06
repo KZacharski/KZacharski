@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/macos/monterey/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios/ios-15/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=3DDC84)](https://www.android.com/android-11/)
-[![Sailfish OS](https://img.shields.io/badge/Sailfish-OS-163763?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=163763)](https://sailfishos.org/)
+[![Sailfish OS](https://img.shields.io/badge/Sailfish OS-163763?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=163763)](https://sailfishos.org/)
 [![Windows](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 [![Arch](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
