@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 [![LG L90](https://img.shields.io/badge/LG_L90-A50034?style=for-the-badge&logo=lg&logoColor=FFFFFF&labelColor=A50034)](https://www.gsmarena.com/lg_l90_d405-6100.php)
 [![Samsung Galaxy Ace](https://img.shields.io/badge/Samsung_Galaxy_Ace-1428A0?style=for-the-badge&logo=samsung&logoColor=FFFFFF&labelColor=1428A0)](https://www.gsmarena.com/samsung_galaxy_ace_s5830i-4664.php)
 [![Raspberry Pi 3B](https://img.shields.io/badge/Raspberry_Pi_3B-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF&labelColor=A22846)](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
+
+### Computer
+[![MacBook Pro 16" 2019](https://img.shields.io/badge/MacBook_Pro_16"_2019-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP809)
+[![Intel Core i7-9750H](https://img.shields.io/badge/Intel_Core_i7-9750H-0071C5?style=for-the-badge&logo=intel&logoColor=FFFFFF&labelColor=0071C5)](https://www.intel.com/content/www/us/en/products/sku/191045/intel-core-i79750h-processor-12m-cache-up-to-4-50-ghz/specifications.html)
