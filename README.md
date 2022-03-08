@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### Contact
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=26A5E4)](https://t.me/puffercat)
-[//]: # (
+<!--
 
 ### My stack of choices (From all possible categories)
 [![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://apple.com)
@@ -93,4 +93,5 @@ Here are some ideas to get you started:
 [![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=000000&labelColor=F7B500)](https://sketch.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1DB954)](https://spotify.com)
 [![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=FFFFFF&labelColor=0559C9)](https://www.ui.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=007ACC)](https://code.visualstudio.com))
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=007ACC)](https://code.visualstudio.com)
+-->
