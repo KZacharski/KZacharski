@@ -9,8 +9,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my website and FeverOS Custom rom
-- 🌱 I’m currently learning NuxtJS, NGINX and Custom ROM development
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning NuxtJS and NGINX
 - 💬 Ask me about VSCode
 - 😄 Pronouns: He/Him
 - 🕐 I like to code, design stuff and make music
