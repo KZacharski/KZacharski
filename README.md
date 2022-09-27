@@ -9,9 +9,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my website and Tobil
-- 🌱 I’m currently learning NuxtJS, NGINX and Custom ROM development
-- 💬 Ask me about VSCode
+- 🔭 I’m currently working on PufferIcons Filled
+- 🌱 I’m currently learning NuxtJS, Go and Material Design
+- 💬 Ask me about VSCode and making wallpaper packs
 - 😄 Pronouns: He/Him
 - 🕐 I like to code, design stuff and make music
 - ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead. Also I'm ace 🏳️‍🌈♠️.
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 [![Parcel](https://img.shields.io/badge/Parcel-b04b4c?style=for-the-badge&logoColor=FFFFFF&labelColor=b04b4c)](https://parceljs.org)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF&labelColor=4FC08D)](https://vuejs.org)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=7F52FF)](https://kotlinlang.org)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=3776AB)](https://www.python.org)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=4EAA25)](https://www.gnu.org/software/bash/)
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=4285F4)](https://cloud.google.com/)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FCC624)
@@ -33,8 +32,8 @@ Here are some ideas to get you started:
 
 ### Environment
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/macos/monterey/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios/ios-15/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=3DDC84)](https://www.android.com/android-11/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios/ios-16/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=3DDC84)](https://www.android.com/android-13/)
 [![Sailfish OS](https://img.shields.io/badge/Sailfish_OS-163763?style=for-the-badge&logo=sailfishos&logoColor=FFFFFF&labelColor=163763)](https://sailfishos.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com)
 
@@ -62,3 +61,4 @@ Here are some ideas to get you started:
 ### Contact
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=26A5E4)](https://t.me/puffercat)
+[![E-Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335
