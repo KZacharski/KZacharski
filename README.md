@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 ### Contact
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=26A5E4)](https://t.me/puffercat)
-[![E-Mail](https://img.shields.io/badge/E-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335)](mailto:puffercatt@gmail.com)
+[![E-Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335)](mailto:puffercatt@gmail.com)
