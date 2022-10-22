@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![Apple Watch SE 40MM](https://img.shields.io/badge/Apple_Watch_SE_40MM-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/shop/buy-watch/apple-watch-se/40mm-gps-space-gray-aluminum-abyss-blue-braided-solo-loop-size-1-se)
 [![Raspberry Pi 3B](https://img.shields.io/badge/Raspberry_Pi_3B-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF&labelColor=A22846)](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/)
 [![MacBook Pro 16" 2019](https://img.shields.io/badge/MacBook_Pro_16"_2019-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP809)
-
+[![HP EliteBook 8770w](https://img.shields.io/badge/HP_EliteBook_8770w-0096D6?style=for-the-badge&logo=hp&logoColor=FFFFFF&labelColor=0096D6)]
 <details>
   <summary>Computer specs</summary>
      • CPU: Intel Core i7-9750H<br>
