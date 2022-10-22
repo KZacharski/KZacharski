@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios/ios-16/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=3DDC84)](https://www.android.com/android-13/)
 [![Sailfish OS](https://img.shields.io/badge/Sailfish_OS-163763?style=for-the-badge&logo=sailfishos&logoColor=FFFFFF&labelColor=163763)](https://sailfishos.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&labelColor=E95420)](https://ubuntu.com)
+[![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=FFFFFF&labelColor=0078D6)](https://windows.com)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=FFFFFF&labelColor=51A2DA)](https://getfedora.org)
 
 ### Devices
 [![iPhone 8 Plus](https://img.shields.io/badge/iPhone_8_Plus-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP768)
