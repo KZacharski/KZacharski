@@ -52,11 +52,18 @@ Here are some ideas to get you started:
 [![MacBook Pro 16" 2019](https://img.shields.io/badge/MacBook_Pro_16"_2019-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/kb/SP809)
 ![HP EliteBook 8770w](https://img.shields.io/badge/HP_EliteBook_8770w-0096D6?style=for-the-badge&logo=hp&logoColor=FFFFFF&labelColor=0096D6)
 <details>
-  <summary>Computer specs</summary>
+  <summary>Main computer specs</summary>
      • CPU: Intel Core i7-9750H<br>
      • Memory: 16 GB 2667 MHz DDR4<br>
      • GPU: AMD Radeon Pro 5300M<br>
      • Disk: 512 GB SSD
+</details>
+<details>
+  <summary>Second computer specs</summary>
+     • CPU: Intel Core i5-3360M<br>
+     • Memory: 8 GB<br>
+     • GPU: NVIDIA Quadro K3000M<br>
+     • Disk: 256 GB SSD
 </details>
 
 ### Contact
