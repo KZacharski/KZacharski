@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on all of my projects I guess, I start everything and almost never finish
 - 🌱 I’m currently learning NuxtJS, Go and Material Design
-- 💬 Ask me about VSCode and making wallpaper packs
+- 💬 Ask me about nothing, I'm dumb
 - 😄 Pronouns: He/Him
-- 🕐 I like to code, design stuff and make music
+- 🕐 I like to code and design stuff
 - ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead.
 
 ### Skills
