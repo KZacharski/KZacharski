@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on all of my projects I guess, I start everything and almost never finish
-- 🌱 I’m currently learning NuxtJS, Go and Material Design
-- 💬 Ask me about nothing, I'm dumb
+- 🌱 I’m currently learning backend dev and probably a lot of other things
 - 😄 Pronouns: He/Him
 - 🕐 I like to code and design stuff
 - ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead.
@@ -82,3 +81,5 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/puffercatt)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=26A5E4)](https://t.me/puffercat)
 [![E-Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335)](mailto:puffercatt@gmail.com)
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65689b485145316d259905af?variant=dark)](https://roadmap.sh)
