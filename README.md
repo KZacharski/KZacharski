@@ -1,7 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KZacharski&show_icons=true&theme=vue-dark">
 
+
 ### Hi there 👋
 ### My name is Kacper/Casper AKA Puffercat and I am a programming beginner.
+
+
 
 <!--
 **KZacharski/KZacharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - 🕐 I like to code and design stuff
 - ⚡ Fun fact: In 7th grade I was making our Scratch assignments in JavaScript instead.
+
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65689b485145316d259905af?variant=dark)](https://roadmap.sh)
 
