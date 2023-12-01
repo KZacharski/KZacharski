@@ -20,3 +20,5 @@
 [![E-Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335)](mailto:puffercatt@gmail.com)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65689b485145316d259905af?variant=dark)](https://roadmap.sh)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KZacharski&layout=compact&theme=vue-dark)
