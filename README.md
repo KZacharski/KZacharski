@@ -22,3 +22,5 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65689b485145316d259905af?variant=dark)](https://roadmap.sh)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KZacharski&layout=compact&theme=vue-dark)
+
+<img src="https://shouji.wiki/w/images/7/7c/WeChat_puffercat.JPG" width="400">
